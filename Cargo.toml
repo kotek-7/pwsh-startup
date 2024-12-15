@@ -2,5 +2,7 @@
 name = "pwsh-startup"
 version = "0.1.0"
 edition = "2021"
+description = "A tool for measuring the Powershell startup time."
+license = "MIT"
 
 [dependencies]
