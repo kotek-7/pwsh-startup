@@ -1,6 +1,14 @@
 # pwsh-startup
 This tool measures the startup time of PowerShell 10 times and calculates the average.
 
+## Installation
+Download the released .exe file.
+
+You also can install it from crates.io. Cargo is necessary to run the command.
+```
+cargo install pwsh-startup
+```
+
 ## Usage
 Just run the released .exe file. Make sure a powershell is installed.
 
