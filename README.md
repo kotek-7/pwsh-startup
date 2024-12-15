@@ -2,7 +2,7 @@
 This tool measures the startup time of PowerShell 10 times and calculates the average.
 
 ## Installation
-Download the released .exe file.
+Download the executable from [the release page](https://github.com/kotek-7/pwsh-startup/releases).
 
 You also can install it from crates.io. Cargo is necessary to run the command.
 ```
